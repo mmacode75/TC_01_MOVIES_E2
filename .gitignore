@@ -4,6 +4,7 @@ data/links.csv
 data/movies.csv
 data/ratings.csv
 data/tags.csv
+
 guia_tc_movies.html
 
 # Entornos virtuales
