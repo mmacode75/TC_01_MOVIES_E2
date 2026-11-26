@@ -1,7 +1,5 @@
 # Catálogo de películas · Team Challenge
 
-> Renombrad este fichero a `README.md` y completad las partes entre `<...>`.
-
 **Equipo: 2** Manuel Martín Arillo, Isaac Cuesta Martinez, Luis Gonzalez-Aller Jareño
 
 Catálogo de películas enriquecido a partir del dataset MovieLens: análisis con Pandas, sinopsis y web oficial desde la API de TMDB, y sinopsis en español generadas con Gemini.
